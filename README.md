@@ -242,27 +242,6 @@ Currently expanding my expertise in:
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohaib175&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib175&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib175&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Let's Connect
 
 <p>
